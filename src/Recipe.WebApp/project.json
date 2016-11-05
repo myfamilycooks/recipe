@@ -21,9 +21,17 @@
     "Microsoft.Extensions.Logging.Debug": "1.0.0",
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
-    "Recipe.CommonObject": "1.0.0-*",
-    "Recipe.Business": "1.0.0-*"
-  },
+    "Recipe.CommonObject": {
+      "target": "project",
+      "version": "1.0.0-*"
+    },
+    "Recipe.Business": {
+      "target": "project",
+      "version": "1.0.0-*"
+    },
+
+
+    },
 
   "tools": {
     "BundlerMinifier.Core": "2.0.238",

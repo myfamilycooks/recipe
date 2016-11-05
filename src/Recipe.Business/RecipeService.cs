@@ -5,7 +5,13 @@ using Recipe.CommonObject;
 
 namespace Recipe.Business
 {
-    public class RecipeService
+    public interface IRecipeService
+    {
+        IEnumerable<RecipeHeader> GetRecipeHeaders();
+        RecipeDetail GetRecipeDetail(int recipeId);
+    }
+
+    public class RecipeService : IRecipeService
     {
         private readonly List<RecipeDetail> staticRecipeRepository;
 
