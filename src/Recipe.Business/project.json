@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0-*",
+  "version": "0.1.0-alpha-*",
 
   "dependencies": {
     "NETStandard.Library": "1.6.0",
-    "Recipe.CommonObject": "1.0.0-*"
+    "Recipe.CommonObject": "0.1.0-*"
   },
 
   "frameworks": {

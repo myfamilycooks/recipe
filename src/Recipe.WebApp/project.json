@@ -25,11 +25,11 @@
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
     "Recipe.CommonObject": {
       "target": "project",
-      "version": "1.0.0-*"
+      "version": "0.1.0-*"
     },
     "Recipe.Business": {
       "target": "project",
-      "version": "1.0.0-*"
+      "version": "0.1.0-*"
     }
 
 
