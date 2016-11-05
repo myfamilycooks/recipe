@@ -1,4 +1,6 @@
 {
+  "version": "1.0.0-*",
+
   "dependencies": {
     "Microsoft.NETCore.App": {
       "version": "1.0.1",
@@ -28,10 +30,10 @@
     "Recipe.Business": {
       "target": "project",
       "version": "1.0.0-*"
-    },
+    }
 
 
-    },
+  },
 
   "tools": {
     "BundlerMinifier.Core": "2.0.238",
