@@ -33,6 +33,8 @@ function Exec
 }
 
 if(Test-Path .\release) { Remove-Item .\release -Force -Recurse }
+ 
+npm install -g bower
 
 EnsurePsbuildInstalled
 
