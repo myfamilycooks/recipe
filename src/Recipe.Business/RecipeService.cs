@@ -127,6 +127,13 @@ namespace Recipe.Business
                     Spread the batter in the prepared pan and bake until the blondies are light brown around the edges and spring back when pressed, about 30 minutes. Cool slightly on a rack.
                     Meanwhile, make the topping: Place the maple syrup and butter in a small saucepan over medium heat and cook until the mixture bubbles and thickens, swirling the pan, about 6 minutes. Add the cream and continue to cook until the mixture is the consistency of caramel.
                     Use the foil to lift the blondies out of the pan, then cut into large bars. Serve warm topped with ice cream, the maple-butter sauce and the walnuts."
+                },
+                new RecipeDetail
+                {
+                    RecipeId = 11,
+                    Name = "Ultra Mashed Potatoes",
+                    ImageUrl ="http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2010/1/21/2/FNM_030110-Copy-That-003_s4x3.jpg.rend.sni12col.landscape.jpeg",
+                    Description = @"Peel the potatoes and cut them in 1/2-inch slices. Place the potatoes in a pressure cooker with 1 cup chicken stock and a tablespoon of salt and cook over high pressure, for about 8 minutes. You can also cook the potatoes in a saucepan, bring to boil and reduce to simmer until tender, for about 30 minutes."
                 }
             };
         }
