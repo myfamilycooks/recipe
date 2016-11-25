@@ -14,6 +14,9 @@ namespace Recipe.CommonObject
         public string Description { get; set; }
 
         public string ImageUrl { get; set; }
+
+        public IList<RecipeIngredient> Ingredients { get; set; }
+
         
     }
 }
