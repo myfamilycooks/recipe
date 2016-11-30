@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Recipe.WebApp.Controllers.Api;
-using Recipe.CommonObject;
+using Recipe.Server.Entities;
 
 namespace Recipe.WebApp.ViewModels
 {

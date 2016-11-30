@@ -23,16 +23,7 @@
     "Microsoft.Extensions.Logging.Debug": "1.0.0",
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
-    "Recipe.CommonObject": {
-      "target": "project",
-      "version": "0.1.0-*"
-    },
-    "Recipe.Business": {
-      "target": "project",
-      "version": "0.1.0-*"
-    }
-
-
+    "Recipe.Server": "0.1.0-*"
   },
 
   "tools": {

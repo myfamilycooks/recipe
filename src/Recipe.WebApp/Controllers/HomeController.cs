@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 using Recipe.WebApp.ViewModels;
-using Recipe.Business;
+using Recipe.Server.Business;
 
 namespace Recipe.WebApp.Controllers
 {
